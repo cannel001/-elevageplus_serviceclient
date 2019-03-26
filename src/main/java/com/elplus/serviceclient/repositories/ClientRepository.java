@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.elplus.servicepublication.repositories;
+package com.elplus.serviceclient.repositories;
 
-import com.elplus.servicepublication.domaine.Publication;
+import com.elplus.serviceclient.domaine.Client;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  *
  * @author cannel
  */
-public interface PublicationRepository extends JpaRepository<Publication, Long>{
+public interface ClientRepository extends JpaRepository<Client, Long>{
     
 }

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.elplus.servicepublication.config;
+package com.elplus.serviceclient.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;

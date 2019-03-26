@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.elplus.servicepublication.service.impl;
+package com.elplus.serviceclient.service.impl;
 
 import com.cloudinary.Cloudinary;
 import com.cloudinary.utils.ObjectUtils;
-import com.elplus.servicepublication.service.IMyFileService;
+import com.elplus.serviceclient.service.IMyFileService;
 import java.io.File;
 import java.io.IOException;
 import java.util.Date;

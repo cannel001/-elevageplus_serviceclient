@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.elplus.servicepublication.swagger;
+package com.elplus.serviceclient.swagger;
 
 import org.springframework.context.annotation.Configuration;
 
@@ -38,7 +38,7 @@ public class SwaggerConfig {
     }
 
     private ApiInfo apiInfo() {
-        return new ApiInfoBuilder().title("Publication elevagePlus API")
+        return new ApiInfoBuilder().title("Clients elevagePlus API")
                 .description("ElevagePLus API reference for developers")
                 .termsOfServiceUrl("http://objis.com")
                 .contact(contact).license("Team elevagePlus")

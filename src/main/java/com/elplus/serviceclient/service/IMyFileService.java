@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.elplus.servicepublication.service;
+package com.elplus.serviceclient.service;
 
 import java.io.File;
 import org.springframework.web.multipart.MultipartFile;
